@@ -1,5 +1,8 @@
 # OCaml Cap'n Proto RPC library
 
+> **Docs:** [ZAP OCaml RPC](https://zap-proto.dev/docs/sdks/ocaml) · part of the [ZAP Protocol](https://zap-proto.io)
+
+
 Copyright 2017 Docker, Inc.
 Copyright 2024 Thomas Leonard.
 See [LICENSE.md](LICENSE.md) for details.
