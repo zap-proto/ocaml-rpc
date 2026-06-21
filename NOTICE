@@ -1,0 +1,15 @@
+ocaml-rpc — part of the ZAP Protocol (github.com/zap-proto)
+
+This product includes software developed by the capnp-rpc (OCaml) project:
+  capnp-rpc — https://github.com/mirage/capnp-rpc
+  Copyright 2017 Docker, Inc.
+  Copyright 2024 Thomas Leonard
+  Licensed under the Apache License, Version 2.0 (see LICENSE.md).
+
+The calculator and RPC schema files are from the Cap'n Proto project
+(https://github.com/capnproto/capnproto) and retain their own MIT license,
+included in the files; original author Kenton Varda.
+
+ZAP is a derivative work: a brand-neutral fork of capnp-rpc providing the OCaml
+capability RPC library over the ZAP wire format.
+Modifications Copyright (c) 2025 Lux Industries Inc.
