@@ -620,7 +620,6 @@ let () =
 ```
 
 The cmdliner term `Capnp_rpc_unix.Vat_config.cmd` provides an easy way to get a suitable `Vat_config`
-based on command-line arguments provided by the user.
 
 And here's the corresponding `client.ml`:
 
